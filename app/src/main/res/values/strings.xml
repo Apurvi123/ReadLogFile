@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadLogFile</string>
+    <string name="user">User: %1$s</string>
+    <string name="consecutive">consecutive requests: %1$d</string>
+</resources>
